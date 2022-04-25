@@ -1,0 +1,5 @@
+ git status
+ git rm --cached app.py
+  git add app.py    
+git add *.html 
+ git init       
